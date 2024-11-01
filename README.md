@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anudeep Nagaraja
 - 👀 I’m interested in building web applications and solving real life problems
-- 🌱 I’m currently learning Angular,Next JS,Node JS
+- 🌱 I’m currently learning Next JS,Node JS
 - 💞️ I’m looking to collaborate on front end related projects which uses React JS
 - 📫 How to reach me anudeepnagaraja@gmail.com
 
